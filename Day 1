@@ -1,0 +1,66 @@
+
+
+## Topics Covered
+
+* DevOps Fundamentals
+* CI/CD
+* Git & GitHub
+* Source Code Management
+* Linux Basics
+* Version Control
+
+## 1. DevOps
+
+DevOps is a practice that improves collaboration between Development and Operations teams using automation.
+
+### DevOps Lifecycle
+
+```text
+Plan → Code → Build → Test → Release → Deploy → Operate → Monitor
+```
+
+### Common Tools
+
+* Git / GitHub – Version Control
+* Maven – Build
+* Jenkins – CI/CD
+* Postman – API Testing
+* Docker – Containerization
+
+## 2. CI/CD
+
+**CI** – Continuous Integration
+**CD** – Continuous Delivery / Deployment
+
+```text
+Code → Commit → Build → Test → Deploy
+```
+
+CI/CD helps automate software development, testing, and deployment.
+
+## 3. Git & GitHub
+
+* **Git** – Distributed Version Control System
+* **GitHub** – Platform for hosting Git repositories and collaboration
+* **SCM** – Used to track and manage source code changes
+
+ Git Commands
+
+```bash
+mkdir project
+cd project
+git init
+git status
+git add .
+git commit -m "Initial commit"
+git remote add origin <repository-url>
+git push -u origin main
+```
+
+ Key Takeaways
+
+* Learned DevOps fundamentals.
+* Understood CI/CD workflow.
+* Learned Git and GitHub basics.
+* Practiced basic Git commands.
+* Understood centralized vs distributed version control.
